@@ -1,6 +1,6 @@
 # perceptron
 
-En 1957, Frank Rosenblatt crée la premier algorithme d'apprentissage supervisé, le perceptron.
+En 1957, Frank Rosenblatt crée le premier algorithme d'apprentissage supervisé, le perceptron.
 
 ## But du projet
 
