@@ -13,7 +13,7 @@ Pour aller plus loin j'ai même reproduit l'expérience fait par Frank sur la cl
 **exam.py :** même exercice que iris.py mais sur d'autres données.
 
 ### Class
-**/akiplot/akiplot.py :** une surclasse crée pour faciliter la création de graphique avec MathPlotLib.<br />
+**/akiplot/akiplot.py :** une surclasse créé pour faciliter la création de graphique avec MathPlotLib et simplifier le code.<br />
 **/pitch/perceptron.py :** le perceptron en lui même.<br />
 **/pitch/vprint.py :**  une surclasse à print() permettant de faciliter l'affichage en mode verbose du model.<br />
 **/pitch/pitch_class.py :** class de création du model incluant : préparation des données d'entrainement et de prédiction, création des graphs, entrainement, prédiction, verbose, etc.
